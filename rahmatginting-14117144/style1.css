@@ -1,0 +1,74 @@
+
+
+body {
+	background-image: url(wallpaper.jpg);
+	background-size: cover;
+	text-decoration-color: red;
+}
+
+header {
+	background-color: rgba(0, 255, 0, 0.3) ;  
+	font-family: arial;
+	text-align: center;
+	text-decoration-color: pink;
+	height: 100px;
+
+}
+ul {
+	list-style-type: none;
+	overflow: hidden;
+
+
+}
+
+li { 
+
+float: left;
+
+ }
+
+ li a {
+ 	display: block;
+ 	text-align: center;
+ 	padding: 15px 17px;
+ 	text-decoration-color: white;
+ }
+
+h1 {
+	padding: 20px;
+	margin: 0;
+}
+
+nav {
+	
+	color: white;
+	background-color: rgba(255, 0, 0, 0.3);  
+	font-family: arial;
+	
+}
+
+content {
+	color: white;
+	background-color: rgba(0, 0, 255, 0.3);
+	font-family: arial;
+	padding: auto;
+
+}
+
+footer {
+	padding: 10px;
+	background-color: red;  
+	font-family: arial;
+	text-align: center;
+
+}
+
+ul {
+	 list-style-type: none;
+}
+
+li a {
+	display: block;
+	text-decoration: none;
+	text-decoration-color: transparent;
+}

@@ -1,0 +1,24 @@
+header{
+background-color: yellow;  
+	font-family: arial;
+}
+body{
+	background-color: white;  
+	font-family: arial;
+}
+
+nav{
+	background-color: black;  
+	font-family: arial;
+	color:blue;
+}
+content{
+	background-color: violet;  
+	font-family: arial;
+
+}
+footer{
+	background-color: red;  
+	font-family: arial;
+
+}
