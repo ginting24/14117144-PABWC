@@ -1,0 +1,25 @@
+body{
+	background-image: url(images.jpg);
+	background-size: auto;
+}
+header{
+background-color: yellow;  
+	font-family: arial;
+}
+
+
+nav{
+	background-color: black;  
+	font-family: arial;
+	color:blue;
+}
+content{
+	background-color: violet;  
+	font-family: arial;
+
+}
+footer{
+	background-color: red;  
+	font-family: arial;
+
+}
